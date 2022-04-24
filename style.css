@@ -3,6 +3,26 @@
 }
 
 .nowy-akapit {
-    color: #ffffff;
+    color: #ffffff !important;
     user-select: none;
+}
+
+.content{
+    color:brown;
+    font-weight: bold;
+     border: 1px dotted black; 
+}
+#naglowek2{
+    color: rgba(117, 212, 219, 0.884);
+    font-size: x-large;
+    font-style: oblique;
+    background-color: darkblue;
+}
+p.content{
+    border: 5px dotted brown; 
+    text-align: center;
+    text-shadow: 1px 1px;
+}
+ul {
+    list-style-type: square;
 }
